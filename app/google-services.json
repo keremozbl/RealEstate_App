@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "188721117267",
+    "firebase_url": "https://realestate-app-35e0d-default-rtdb.firebaseio.com",
+    "project_id": "realestate-app-35e0d",
+    "storage_bucket": "realestate-app-35e0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188721117267:android:93a105357741bceee5eea6",
+        "android_client_info": {
+          "package_name": "com.kerem.realestate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188721117267-aqqfhn7a4a5dgttj0tpk0asglvan5tcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSk5qbxNTEVVpxfbT5nZvdOuocfbo2TOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188721117267-aqqfhn7a4a5dgttj0tpk0asglvan5tcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
